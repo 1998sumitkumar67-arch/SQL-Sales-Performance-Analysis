@@ -174,27 +174,6 @@ PARTITION BY
 
 ---
 
-# 📁 Project Structure
-
-```bash
-SQL-Sales-Performance-Analysis
-│
-├── Dataset
-│   └── Superstore_Sales.csv
-│
-├── SQL_Queries
-│   └── sales_analysis_queries.sql
-│
-├── Report
-│   └── SQL_Project_Report.pdf
-│
-├── README.md
-│
-└── LICENSE
-```
-
----
-
 # 💡 Business Recommendations
 
 - Increase investment in the Technology category.
